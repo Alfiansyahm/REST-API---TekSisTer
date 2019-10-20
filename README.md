@@ -13,6 +13,7 @@ API dapat memberikan informasi data film seperti :
 3.	Jenis film
 4.	Poster film
 5.	Tahun terbit film
+
 Technology :
 1.	Pembuatan API dengan menggunakan Python
 2.	Request data menggunakan method HTTP GET
